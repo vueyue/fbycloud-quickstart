@@ -33,9 +33,3 @@ npm run dev
 ```sh
 yarn run dev --host 0.0.0.0 --port=5173
 ```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
